@@ -1,0 +1,38 @@
+.all{
+  background-color: aqua;
+  text-align: center;
+  border-radius: 1em;
+  padding: 3em;
+  margin: 1px;
+  width: 1500px;
+  
+}
+.home{
+    background-color: aliceblue;
+    padding: 6em;
+    border-radius: 2em ;
+}
+.aa{
+  color: white;
+  background-color:white;
+  text-align: center;
+  background-image: url(../public/Images/college-banner-Cz0xylpt.png) ;
+  border-radius: 2em;
+  
+}
+
+.button{
+  background-color: green;
+  color: white;
+  text-align: center;
+}
+img{
+  height: 100px;
+  width: 100px;
+}
+#scroller{
+  width: 800px;
+  height: 600px;
+  overflow: scroll;
+  scrollbar-color: grey lightblue;
+}

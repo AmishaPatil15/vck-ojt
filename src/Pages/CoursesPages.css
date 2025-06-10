@@ -1,0 +1,20 @@
+.ca{
+  background-color: aqua;
+  width: 2000px;
+}
+.courses{
+  background-color: white ;
+  border-radius: 1em;
+  padding: 2em;
+  margin: 200px;
+  }
+  .cc{
+    text-align: center;
+    color: blue;
+    }
+  #scroller{
+  width: 800px;
+  height: 600px;
+  overflow: scroll;
+  scrollbar-color: grey lightblue;
+}

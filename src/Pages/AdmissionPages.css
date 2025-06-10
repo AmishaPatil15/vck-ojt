@@ -1,0 +1,21 @@
+.Ea{
+  background-color: aqua;
+  width: 1500px;
+}
+.admission{
+   background-color: white ;
+  border-radius: 1em;
+  padding: 1em;
+  margin: 100px;
+}
+.ee{
+  text-align: center;
+  color: blue;
+}
+
+#scroller{
+  width: 800px;
+  height: 600px;
+  overflow: scroll;
+  scrollbar-color: grey lightblue;
+}

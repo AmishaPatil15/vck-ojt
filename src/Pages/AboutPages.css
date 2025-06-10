@@ -1,0 +1,23 @@
+.ba{
+  background-color: aqua;
+  width: 2000px;
+}
+.about{
+  
+  background-color:white;
+  border-radius: 1em;
+  padding: 2em;
+  margin: 200px;
+  
+}
+.bb{
+  color: blue;
+  text-align: center;
+}
+#scroller{
+  width: 800px;
+  height: 600px;
+  overflow: scroll;
+  scrollbar-color: grey lightblue;
+}
+
