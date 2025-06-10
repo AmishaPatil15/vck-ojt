@@ -21,10 +21,10 @@ const Header = () => {
                 <h1 className="logo">Vivekanand College</h1>
 
                 <nav className="nav">
-                    <Link to="/" className="nav=link">Home</Link>
-                    <Link to="/about" className="nav=link">About</Link>
-                    <Link to="/courses" className="nav=link">Courses</Link>
-                    <Link to="/contact" className="nav=link">Contact</Link>
+                    <Link to="/" className="nav-link">Home</Link>
+                    <Link to="/about" className="nav-link">About</Link>
+                    <Link to="/courses" className="nav-link">Courses</Link>
+                    <Link to="/contact" className="nav-link">Contact</Link>
                     <Link to="/admissions" className="apply-btn">Apply Now!</Link>
         
                 </nav>
