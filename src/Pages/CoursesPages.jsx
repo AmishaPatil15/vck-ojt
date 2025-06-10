@@ -17,7 +17,7 @@ const Courses =() => {
                      industry trends and academic advancements.
                 </p>
                 <h2>Discover Campus Life</h2>
-                <video src="demo/public/Videos/college-tour-FAmcnyfF.mp4"></video>
+                <video src="/Videos/college-tour-FAmcnyfF.mp4"></video>
 
                 <h2>Undergraduate Programs (UG)</h2>
                 <ul>                    

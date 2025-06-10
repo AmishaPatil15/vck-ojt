@@ -42,10 +42,12 @@ import Courses from "./Pages/CoursesPages";
 import Contact from "./Pages/ContactPages";
 import Admission from "./Pages/AdmissionPage";
 import NotFoundPage from "./Pages/NotFoundPage";
+import Header from "./Components/Headers/Header";
 const App = () => {
   return(
     <div>
       <Router>
+        {/* <Header/> */}
         <Routes>
           <Route path="/" element={<Homepages/>}/>
           <Route path="/about" element={<About/>}/>

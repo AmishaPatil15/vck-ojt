@@ -1,6 +1,6 @@
 .ca{
   background-color: aqua;
-  width: 2000px;
+  width: 1400px;
 }
 .courses{
   background-color: white ;
@@ -11,6 +11,9 @@
   .cc{
     text-align: center;
     color: blue;
+    }
+    .video{
+      width: 5px;
     }
   #scroller{
   width: 800px;

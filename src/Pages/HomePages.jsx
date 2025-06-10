@@ -31,8 +31,8 @@ const Homepages = () => {
 
              
                     <h2>Campus Life & Facilities</h2>
-                    <img src="C:\Users\Lenovo\Desktop\OJT\ojt3Project\ojt3_React_App\demo\public\Images\campus-life-Crkero7B.jpg"></img>
-                    <img src="C:\Users\Lenovo\Desktop\OJT\ojt3Project\ojt3_React_App\demo\public\Images\students-studying-DbLGuwF_.jpeg" ></img>
+                    <img src="/Images/campus-life-Crkero7B (1).jpg"></img>
+                    <img src="/Images/students-studying-DbLGuwF_.jpeg" ></img>
                     <link></link>
                     <p>Explore our vibrant campus and state-of-the-art facilities designed to enhance your learning experience and personal growth.</p>
                     <p>Ready to explore our courses?</p>

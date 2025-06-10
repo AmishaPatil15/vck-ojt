@@ -4,7 +4,7 @@
   border-radius: 1em;
   padding: 3em;
   margin: 1px;
-  width: 1500px;
+  width: 1400px;
   
 }
 .home{
@@ -27,8 +27,8 @@
   text-align: center;
 }
 img{
-  height: 100px;
-  width: 100px;
+  height: 300px;
+  width: 300px;
 }
 #scroller{
   width: 800px;

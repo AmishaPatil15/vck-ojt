@@ -1,8 +1,8 @@
 import React from "react"
 import{Link} from 'react-router-dom'
 import './AboutPages.css';
-import Header from "../Components/Headers/Header"
 import Footer from "../Components/Footer/Footer";
+import Header from "../Components/Headers/Header";
 const About = () => {
     return(
         <div className="ba">
