@@ -13,8 +13,8 @@
     color: blue;
     }
     .video{
-      width: 1px;
-      height: auto;
+      width: 10px;
+      height: max-content;
     }
   #scroller{
   width: 800px;
