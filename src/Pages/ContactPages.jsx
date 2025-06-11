@@ -31,7 +31,7 @@ const Contact =() => {
                 </p>
             <h2>Find Us on the Map</h2>
                 <p>[You can embed a Google Map here later using an iframe or a React map library.]<br/>
-                 <a href=""   >View on Google Maps</a>
+                 <a href="https://www.google.com/maps/place/Vivekanand+College/data=!4m7!3m6!1s0x3bc100664ad0e191:0x4b2af9253659bbec!8m2!3d16.7123502!4d74.2386097!16s%2Fg%2F11f_zngrbh!19sChIJkeHQSmYAwTsR7LtZNiX5Kks?authuser=0&hl=en&rclk=1"   >View on Google Maps</a>
                 </p>
             <h2>Send Us a Message</h2>
                 <p>[A contact form with fields for Name, Email, Subject, Message can be added here.]</p>
