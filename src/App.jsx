@@ -43,6 +43,7 @@ import Contact from "./Pages/ContactPages";
 import Admission from "./Pages/AdmissionPage";
 import NotFoundPage from "./Pages/NotFoundPage";
 import Header from "./Components/Headers/Header";
+import ChatbotComponent from "./Components/Chatbot/ChatbotComponents";
 const App = () => {
   return(
     <div>
@@ -57,7 +58,7 @@ const App = () => {
           <Route path="*" element={<NotFoundPage/>}/>
           
         </Routes>
-        
+        <ChatbotComponent/>
       </Router>
       
     </div>
