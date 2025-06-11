@@ -2,22 +2,28 @@
   background-color: aqua;
   text-align: center;
   border-radius: 1em;
-  padding: 3em;
-  margin: 1px;
-  width: 1400px;
+  padding: 0em;
+  margin-right: 20px;
+  width: 1515px; 
   
 }
 .home{
-    background-color: aliceblue;
+    background-color: white;
     padding: 6em;
     border-radius: 2em ;
+    margin: 100px;
+    margin-left: 300px;
+    margin-bottom: 1px;
+    margin-top: 50px;
 }
 .aa{
   color: white;
   background-color:white;
   text-align: center;
   background-image: url(../../public/Images/college-banner-Cz0xylpt.png);
-  border-radius: 2em;
+  border-radius: 1em;
+  margin-bottom: 20px;
+  margin-top: 20px;
   
 }
 

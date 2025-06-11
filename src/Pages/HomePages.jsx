@@ -8,14 +8,16 @@ const Homepages = () => {
     return (
         <div className="all">
         <Header/>
-            <div className="aa">
+        
+             <div div className="home" id="scroller">
+                <div className="aa">
                 <h1>Welcome to Vivekanand College!</h1>
                 Your journey to excellence starts here.<br/>
             
             <Link to="admission" className="button">Apply Now!</Link>
             </div>
 
-            <div div className="home" id="scroller">
+
             <p>**Vivekanand College is a premier educational institution dedicated to fostering academic excellence, innovation, and holistic development. Established in [Year of Establishment, e.g., 1980], we have proudly served generations of students, empowering them to achieve their full potential.</p>
             <p>At Vivekanand College, we believe in a vibrant learning environment that extends beyond textbooks. Our state-of-the-art facilities, experienced faculty, and diverse student community create a unique ecosystem where curiosity thrives and future leaders are shaped.</p>
             
