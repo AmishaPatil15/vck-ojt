@@ -12,7 +12,7 @@ const Homepages = () => {
              <div div className="home" id="scroller">
                 <div className="aa">
                 <h1>Welcome to Vivekanand College!</h1>
-                Your journey to excellence starts here.<br/>
+                <h2> Your journey to excellence starts here.</h2><br/>
             
             <Link to="admission" className="button">Apply Now!</Link>
             </div>
