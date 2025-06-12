@@ -80,7 +80,7 @@ const Admission = () => {
                 specific program syllabi, and fee structures, please visit our"
                 <a href="/courses" data-discover="true">Courses</a>
                 " or"
-                <a href="/contact" data-discover="true">Contact</a>
+                <a href="/contact" data-discover="true">Contact</a> 
                 " directly. "
             </p>
              
