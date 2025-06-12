@@ -25,7 +25,7 @@ const Header = () => {
                     <Link to="/about" className="nav-link">About</Link>
                     <Link to="/courses" className="nav-link">Courses</Link>
                     <Link to="/contact" className="nav-link">Contact</Link>
-                    <Link to="/admissions" className="apply-btn">Apply Now!</Link>
+                    <Link to="/admission" className="apply-btn">Apply Now!</Link>
         
                 </nav>
                 <button className="hamburger" onClick={toggleMenu}>
