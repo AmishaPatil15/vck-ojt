@@ -78,9 +78,9 @@ const Admission = () => {
             <p>
                 "For detailed information on postgraduate program admissions, 
                 specific program syllabi, and fee structures, please visit our"
-                <a href="/courses" data-discover="true">Courses</a>
+                <a href="/Courses" data-discover="true">Courses</a>
                 " or"
-                <a href="/contact" data-discover="true">Contact</a> 
+                <a href="/Contact" data-discover="true">Contact</a> 
                 " directly. "
             </p>
              
