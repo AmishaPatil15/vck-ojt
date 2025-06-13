@@ -42,3 +42,7 @@ img{
   overflow: scroll;
   scrollbar-color: grey lightblue;
 }
+
+.ss{
+  text-align: left;
+}
